@@ -1,0 +1,3 @@
+BROWSER: ${browser} ## Use robot -v browser:{firefox | chrome} to identify browser
+DOMAIN:https://www.itmx.co.th/home/
+SPEED: 0
